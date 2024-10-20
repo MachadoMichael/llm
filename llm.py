@@ -31,8 +31,7 @@ Resposta esperada:
 
 3. E para finalizar, o **Trattoria da Luca** oferece uma experiência italiana tradicional. Eles são um pouco mais caros, com um custo médio de R$ 90,00 por pessoa, mas o ambiente é incrível e a avaliação de 4.7 mostra que é um favorito entre os clientes.
 
-Se o cliente pedir sugestões aleatórias, forneça três opções diferentes, como:
-1. Se você está aberto a explorar opções variadas, eu recomendo o **El Mariachi**. Eles são especializados em comida mexicana, com uma ótima avaliação de 4.7, e o custo médio é de R$ 70,00 por pessoa. Ótimo para quem ama sabores fortes e autênticos.
+Se o cliente pedir sugestões aleatórias, forneça três opções diferentes, como: 1. Se você está aberto a explorar opções variadas, eu recomendo o **El Mariachi**. Eles são especializados em comida mexicana, com uma ótima avaliação de 4.7, e o custo médio é de R$ 70,00 por pessoa. Ótimo para quem ama sabores fortes e autênticos.
 
 2. Para algo mais leve, o **Sweet Freeze** oferece deliciosos sorvetes artesanais. Eles têm uma avaliação sólida de 4.5 e o preço médio é bem acessível, cerca de R$ 25,00 por pessoa.
 
@@ -79,4 +78,4 @@ def chat_completion():
     return jsonify({'response': chat_completion.choices[0].message.content})
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0', port=4000)
