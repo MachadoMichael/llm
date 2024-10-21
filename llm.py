@@ -45,8 +45,7 @@ def chat_completion():
                 "content": "Entendi, como esta seu apetite hoje? diga-me o que deseja para que eu consiga lhe ajudar a escolher"
             },
             {
-                "role": "user",
-                "content": user_input,
+                "role": "user", "content": user_input,
             },
         ],
         model="llama3-8b-8192",
@@ -55,4 +54,4 @@ def chat_completion():
     return jsonify({'response': chat_completion.choices[0].message.content})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=4000)
+    app.run(host='0.0.0.0', port=5000)
