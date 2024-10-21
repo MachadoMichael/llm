@@ -1,819 +1,819 @@
 [
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 82.84,
-        "rank": 4.3,
-        "type": [
-            "mexican",
-            "ice cream",
+        "nome": "Sushi Bar",
+        "preco_medio": 82.84,
+        "nota": 4.3,
+        "tipos_de_comida": [
+            "mexicana",
+            "sorvete",
             "pizza"
         ],
-        "phone": 3001087843
+        "telefone": 3001087843
     },
     {
-        "name": "Churrasco Grill",
-        "average_price_per_person": 53.69,
-        "rank": 3.7,
-        "type": [
+        "nome": "Churrasco Grill",
+        "preco_medio": 53.69,
+        "nota": 3.7,
+        "tipos_de_comida": [
             "pizza",
-            "brazilian",
-            "mexican"
+            "brasileira",
+            "mexicana"
         ],
-        "phone": 2145069354
+        "telefone": 2145069354
     },
     {
-        "name": "Taco House",
-        "average_price_per_person": 44.94,
-        "rank": 1.9,
-        "type": [
-            "brazilian"
+        "nome": "Taco House",
+        "preco_medio": 44.94,
+        "nota": 1.9,
+        "tipos_de_comida": [
+            "brasileira"
         ],
-        "phone": 9825695955
+        "telefone": 9825695955
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 75.74,
-        "rank": 4.0,
-        "type": [
+        "nome": "Gelato Corner",
+        "preco_medio": 75.74,
+        "nota": 4.0,
+        "tipos_de_comida": [
             "pizza",
-            "japanese",
-            "italian"
+            "japonesa",
+            "italiana"
         ],
-        "phone": 3411068119
+        "telefone": 3411068119
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 59.44,
-        "rank": 4.8,
-        "type": [
-            "ice cream",
-            "chinese"
+        "nome": "Burger Hub",
+        "preco_medio": 59.44,
+        "nota": 4.8,
+        "tipos_de_comida": [
+            "sorvete",
+            "chinesa"
         ],
-        "phone": 7228999797
+        "telefone": 7228999797
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 51.48,
-        "rank": 4.2,
-        "type": [
-            "burger"
+        "nome": "Gelato Corner",
+        "preco_medio": 51.48,
+        "nota": 4.2,
+        "tipos_de_comida": [
+            "hamburguer"
         ],
-        "phone": 7417232531
+        "telefone": 7417232531
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 22.19,
-        "rank": 4.3,
-        "type": [
-            "italian"
+        "nome": "Sushi Bar",
+        "preco_medio": 22.19,
+        "nota": 4.3,
+        "tipos_de_comida": [
+            "italiana"
         ],
-        "phone": 8127216871
+        "telefone": 8127216871
     },
     {
-        "name": "Wok Palace",
-        "average_price_per_person": 64.05,
-        "rank": 2.3,
-        "type": [
-            "mexican",
-            "burger",
-            "chinese"
+        "nome": "Wok Palace",
+        "preco_medio": 64.05,
+        "nota": 2.3,
+        "tipos_de_comida": [
+            "mexicana",
+            "hamburguer",
+            "chinesa"
         ],
-        "phone": 9306295118
+        "telefone": 9306295118
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 13.66,
-        "rank": 3.3,
-        "type": [
+        "nome": "Burger Hub",
+        "preco_medio": 13.66,
+        "nota": 3.3,
+        "tipos_de_comida": [
             "pizza",
-            "italian"
+            "italiana"
         ],
-        "phone": 6437033148
+        "telefone": 6437033148
     },
     {
-        "name": "Churrasco Grill",
-        "average_price_per_person": 48.19,
-        "rank": 3.3,
-        "type": [
-            "brazilian"
+        "nome": "Churrasco Grill",
+        "preco_medio": 48.19,
+        "nota": 3.3,
+        "tipos_de_comida": [
+            "brasileira"
         ],
-        "phone": 5188912248
+        "telefone": 5188912248
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 84.49,
-        "rank": 1.2,
-        "type": [
+        "nome": "Burger Hub",
+        "preco_medio": 84.49,
+        "nota": 1.2,
+        "tipos_de_comida": [
             "pizza",
-            "italian"
+            "italiana"
         ],
-        "phone": 6935618526
+        "telefone": 6935618526
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 18.83,
-        "rank": 3.0,
-        "type": [
-            "chinese",
-            "japanese",
-            "italian"
+        "nome": "Sushi Bar",
+        "preco_medio": 18.83,
+        "nota": 3.0,
+        "tipos_de_comida": [
+            "chinesa",
+            "japonesa",
+            "italiana"
         ],
-        "phone": 5596982144
+        "telefone": 5596982144
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 24.91,
-        "rank": 3.1,
-        "type": [
+        "nome": "Sushi Bar",
+        "preco_medio": 24.91,
+        "nota": 3.1,
+        "tipos_de_comida": [
             "pizza"
         ],
-        "phone": 5853846879
+        "telefone": 5853846879
     },
     {
-        "name": "Churrasco Grill",
-        "average_price_per_person": 16.06,
-        "rank": 3.3,
-        "type": [
-            "japanese",
-            "mexican",
-            "italian"
+        "nome": "Churrasco Grill",
+        "preco_medio": 16.06,
+        "nota": 3.3,
+        "tipos_de_comida": [
+            "japonesa",
+            "mexicana",
+            "italiana"
         ],
-        "phone": 4572059049
+        "telefone": 4572059049
     },
     {
-        "name": "Wok Palace",
-        "average_price_per_person": 23.74,
-        "rank": 1.2,
-        "type": [
-            "japanese",
-            "brazilian"
+        "nome": "Wok Palace",
+        "preco_medio": 23.74,
+        "nota": 1.2,
+        "tipos_de_comida": [
+            "japonesa",
+            "brasileira"
         ],
-        "phone": 7904596385
+        "telefone": 7904596385
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 84.43,
-        "rank": 1.8,
-        "type": [
-            "chinese",
-            "burger"
+        "nome": "Gelato Corner",
+        "preco_medio": 84.43,
+        "nota": 1.8,
+        "tipos_de_comida": [
+            "chinesa",
+            "hamburguer"
         ],
-        "phone": 2559260356
+        "telefone": 2559260356
     },
     {
-        "name": "Churrasco Grill",
-        "average_price_per_person": 17.99,
-        "rank": 1.7,
-        "type": [
-            "brazilian"
+        "nome": "Churrasco Grill",
+        "preco_medio": 17.99,
+        "nota": 1.7,
+        "tipos_de_comida": [
+            "brasileira"
         ],
-        "phone": 7403751135
+        "telefone": 7403751135
     },
     {
-        "name": "Taco House",
-        "average_price_per_person": 79.68,
-        "rank": 1.1,
-        "type": [
+        "nome": "Taco House",
+        "preco_medio": 79.68,
+        "nota": 1.1,
+        "tipos_de_comida": [
             "pizza",
-            "chinese"
+            "chinesa"
         ],
-        "phone": 3702104402
+        "telefone": 3702104402
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 76.9,
-        "rank": 2.6,
-        "type": [
-            "ice cream",
-            "mexican",
-            "brazilian"
+        "nome": "Sushi Bar",
+        "preco_medio": 76.9,
+        "nota": 2.6,
+        "tipos_de_comida": [
+            "sorvete",
+            "mexicana",
+            "brasileira"
         ],
-        "phone": 5329871024
+        "telefone": 5329871024
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 75.81,
-        "rank": 2.0,
-        "type": [
-            "brazilian",
-            "chinese",
-            "ice cream"
+        "nome": "Gelato Corner",
+        "preco_medio": 75.81,
+        "nota": 2.0,
+        "tipos_de_comida": [
+            "brasileira",
+            "chinesa",
+            "sorvete"
         ],
-        "phone": 4051601229
+        "telefone": 4051601229
     },
     {
-        "name": "Churrasco Grill",
-        "average_price_per_person": 34.38,
-        "rank": 3.0,
-        "type": [
-            "chinese"
+        "nome": "Churrasco Grill",
+        "preco_medio": 34.38,
+        "nota": 3.0,
+        "tipos_de_comida": [
+            "chinesa"
         ],
-        "phone": 5912834230
+        "telefone": 5912834230
     },
     {
-        "name": "Taco House",
-        "average_price_per_person": 10.79,
-        "rank": 1.7,
-        "type": [
-            "italian",
-            "chinese"
+        "nome": "Taco House",
+        "preco_medio": 10.79,
+        "nota": 1.7,
+        "tipos_de_comida": [
+            "italiana",
+            "chinesa"
         ],
-        "phone": 7757226954
+        "telefone": 7757226954
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 11.91,
-        "rank": 4.1,
-        "type": [
-            "brazilian",
-            "chinese"
+        "nome": "Sushi Bar",
+        "preco_medio": 11.91,
+        "nota": 4.1,
+        "tipos_de_comida": [
+            "brasileira",
+            "chinesa"
         ],
-        "phone": 3209948880
+        "telefone": 3209948880
     },
     {
-        "name": "Bistro",
-        "average_price_per_person": 96.36,
-        "rank": 4.4,
-        "type": [
-            "ice cream"
+        "nome": "BistroSos",
+        "preco_medio": 96.36,
+        "nota": 4.4,
+        "tipos_de_comida": [
+            "sorvete"
         ],
-        "phone": 6280396117
+        "telefone": 6280396117
     },
     {
-        "name": "Taco House",
-        "average_price_per_person": 59.55,
-        "rank": 1.5,
-        "type": [
-            "ice cream"
+        "nome": "Taco House",
+        "preco_medio": 59.55,
+        "nota": 1.5,
+        "tipos_de_comida": [
+            "sorvete"
         ],
-        "phone": 3546256651
+        "telefone": 3546256651
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 47.23,
-        "rank": 1.1,
-        "type": [
-            "ice cream",
+        "nome": "Gelato Corner",
+        "preco_medio": 47.23,
+        "nota": 1.1,
+        "tipos_de_comida": [
+            "sorvete",
             "pizza",
-            "mexican"
+            "mexicana"
         ],
-        "phone": 6567423492
+        "telefone": 6567423492
     },
     {
-        "name": "Bistro",
-        "average_price_per_person": 70.81,
-        "rank": 4.7,
-        "type": [
+        "nome": "Distro",
+        "preco_medio": 70.81,
+        "nota": 4.7,
+        "tipos_de_comida": [
             "pizza"
         ],
-        "phone": 8833936577
+        "telefone": 8833936577
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 93.3,
-        "rank": 4.8,
-        "type": [
-            "brazilian",
-            "chinese"
+        "nome": "Sushi Bar",
+        "preco_medio": 93.3,
+        "nota": 4.8,
+        "tipos_de_comida": [
+            "brasileira",
+            "chinesa"
         ],
-        "phone": 3387596787
+        "telefone": 3387596787
     },
     {
-        "name": "Bistro",
-        "average_price_per_person": 99.22,
-        "rank": 3.0,
-        "type": [
-            "japanese"
+        "nome": "Bistro5",
+        "preco_medio": 99.22,
+        "nota": 3.0,
+        "tipos_de_comida": [
+            "japonesa"
         ],
-        "phone": 8714826789
+        "telefone": 8714826789
     },
     {
-        "name": "Wok Palace",
-        "average_price_per_person": 66.49,
-        "rank": 3.1,
-        "type": [
-            "japanese"
+        "nome": "Wok Palace",
+        "preco_medio": 66.49,
+        "nota": 3.1,
+        "tipos_de_comida": [
+            "japonesa"
         ],
-        "phone": 3320660521
+        "telefone": 3320660521
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 20.95,
-        "rank": 1.1,
-        "type": [
-            "japanese",
+        "nome": "Gelato Corner",
+        "preco_medio": 20.95,
+        "nota": 1.1,
+        "tipos_de_comida": [
+            "japonesa",
             "pizza",
-            "ice cream"
+            "sorvete"
         ],
-        "phone": 3706698690
+        "telefone": 3706698690
     },
     {
-        "name": "La Piazza",
-        "average_price_per_person": 22.3,
-        "rank": 3.3,
-        "type": [
-            "burger",
-            "mexican",
+        "nome": "La Piazza",
+        "preco_medio": 22.3,
+        "nota": 3.3,
+        "tipos_de_comida": [
+            "hamburguer",
+            "mexicana",
             "pizza"
         ],
-        "phone": 2039574408
+        "telefone": 2039574408
     },
     {
-        "name": "La Piazza",
-        "average_price_per_person": 79.43,
-        "rank": 3.1,
-        "type": [
-            "burger",
-            "mexican",
+        "nome": "La Piazza",
+        "preco_medio": 79.43,
+        "nota": 3.1,
+        "tipos_de_comida": [
+            "hamburguer",
+            "mexicana",
             "pizza"
         ],
-        "phone": 5463958478
+        "telefone": 5463958478
     },
     {
-        "name": "Taco House",
-        "average_price_per_person": 11.27,
-        "rank": 1.7,
-        "type": [
-            "burger",
-            "ice cream",
-            "mexican"
+        "nome": "Taco House",
+        "preco_medio": 11.27,
+        "nota": 1.7,
+        "tipos_de_comida": [
+            "hamburguer",
+            "sorvete",
+            "mexicana"
         ],
-        "phone": 6263473273
+        "telefone": 6263473273
     },
     {
-        "name": "Nord",
-        "average_price_per_person": 60.42,
-        "rank": 4.7,
-        "type": [
-            "mexican",
-            "italian",
-            "burger"
+        "nome": "Nord",
+        "preco_medio": 60.42,
+        "nota": 4.7,
+        "tipos_de_comida": [
+            "mexicana",
+            "italiana",
+            "hamburguer"
         ],
-        "phone": 5873678508
+        "telefone": 5873678508
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 98.13,
-        "rank": 1.5,
-        "type": [
-            "mexican"
+        "nome": "Sushi Bar",
+        "preco_medio": 98.13,
+        "nota": 1.5,
+        "tipos_de_comida": [
+            "mexicana"
         ],
-        "phone": 7161324695
+        "telefone": 7161324695
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 82.54,
-        "rank": 4.4,
-        "type": [
-            "chinese",
-            "ice cream",
-            "mexican"
+        "nome": "Sushi Bar",
+        "preco_medio": 82.54,
+        "nota": 4.4,
+        "tipos_de_comida": [
+            "chinesa",
+            "sorvete",
+            "mexicana"
         ],
-        "phone": 6066499758
+        "telefone": 6066499758
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 22.83,
-        "rank": 1.9,
-        "type": [
-            "italian",
-            "japanese",
-            "ice cream"
+        "nome": "Sushi Bar",
+        "preco_medio": 22.83,
+        "nota": 1.9,
+        "tipos_de_comida": [
+            "italiana",
+            "japonesa",
+            "sorvete"
         ],
-        "phone": 8960729948
+        "telefone": 8960729948
     },
     {
-        "name": "Bistro",
-        "average_price_per_person": 58.29,
-        "rank": 2.3,
-        "type": [
-            "japanese",
+        "nome": "BistroS",
+        "preco_medio": 58.29,
+        "nota": 2.3,
+        "tipos_de_comida": [
+            "japonesa",
             "pizza",
-            "brazilian"
+            "brasileira"
         ],
-        "phone": 3423695173
+        "telefone": 3423695173
     },
     {
-        "name": "Nord",
-        "average_price_per_person": 54.18,
-        "rank": 3.5,
-        "type": [
-            "italian",
-            "mexican",
-            "ice cream"
+        "nome": "Nord",
+        "preco_medio": 54.18,
+        "nota": 3.5,
+        "tipos_de_comida": [
+            "italiana",
+            "mexicana",
+            "sorvete"
         ],
-        "phone": 9760384792
+        "telefone": 9760384792
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 76.76,
-        "rank": 2.2,
-        "type": [
-            "brazilian",
-            "japanese"
+        "nome": "Gelato Corner",
+        "preco_medio": 76.76,
+        "nota": 2.2,
+        "tipos_de_comida": [
+            "brasileira",
+            "japonesa"
         ],
-        "phone": 3034933764
+        "telefone": 3034933764
     },
     {
-        "name": "Bistro",
-        "average_price_per_person": 39.23,
-        "rank": 1.8,
-        "type": [
-            "mexican",
-            "italian",
-            "burger"
+        "nome": "Bistro",
+        "preco_medio": 39.23,
+        "nota": 1.8,
+        "tipos_de_comida": [
+            "mexicana",
+            "italiana",
+            "hamburguer"
         ],
-        "phone": 4057348001
+        "telefone": 4057348001
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 43.47,
-        "rank": 2.7,
-        "type": [
-            "ice cream"
+        "nome": "Sushi Bar",
+        "preco_medio": 43.47,
+        "nota": 2.7,
+        "tipos_de_comida": [
+            "sorvete"
         ],
-        "phone": 4038202826
+        "telefone": 4038202826
     },
     {
-        "name": "Churrasco Grill",
-        "average_price_per_person": 83.14,
-        "rank": 3.9,
-        "type": [
-            "japanese",
+        "nome": "Churrasco Grill",
+        "preco_medio": 83.14,
+        "nota": 3.9,
+        "tipos_de_comida": [
+            "japonesa",
             "pizza"
         ],
-        "phone": 6364192374
+        "telefone": 6364192374
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 19.0,
-        "rank": 4.9,
-        "type": [
+        "nome": "Gelato Corner",
+        "preco_medio": 19.0,
+        "nota": 4.9,
+        "tipos_de_comida": [
             "pizza",
-            "chinese",
-            "italian"
+            "chinesa",
+            "italiana"
         ],
-        "phone": 2562046095
+        "telefone": 2562046095
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 44.36,
-        "rank": 2.0,
-        "type": [
-            "japanese",
-            "mexican",
-            "italian"
+        "nome": "Sushi Bar",
+        "preco_medio": 44.36,
+        "nota": 2.0,
+        "tipos_de_comida": [
+            "japonesa",
+            "mexicana",
+            "italiana"
         ],
-        "phone": 6524721961
+        "telefone": 6524721961
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 94.73,
-        "rank": 2.1,
-        "type": [
+        "nome": "Burger Hub",
+        "preco_medio": 94.73,
+        "nota": 2.1,
+        "tipos_de_comida": [
             "pizza"
         ],
-        "phone": 5412371345
+        "telefone": 5412371345
     },
     {
-        "name": "Wok Palace",
-        "average_price_per_person": 77.52,
-        "rank": 1.4,
-        "type": [
-            "italian",
-            "ice cream",
+        "nome": "Wok Palace",
+        "preco_medio": 77.52,
+        "nota": 1.4,
+        "tipos_de_comida": [
+            "italiana",
+            "sorvete",
             "pizza"
         ],
-        "phone": 2335670651
+        "telefone": 2335670651
     },
     {
-        "name": "Bistro",
-        "average_price_per_person": 65.74,
-        "rank": 1.7,
-        "type": [
-            "italian",
-            "mexican"
+        "nome": "Cistro",
+        "preco_medio": 65.74,
+        "nota": 1.7,
+        "tipos_de_comida": [
+            "italiana",
+            "mexicana"
         ],
-        "phone": 8539339315
+        "telefone": 8539339315
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 94.49,
-        "rank": 3.9,
-        "type": [
-            "italian"
+        "nome": "Burger Hub",
+        "preco_medio": 94.49,
+        "nota": 3.9,
+        "tipos_de_comida": [
+            "italiana"
         ],
-        "phone": 4700442233
+        "telefone": 4700442233
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 97.9,
-        "rank": 2.7,
-        "type": [
-            "brazilian",
+        "nome": "Gelato Corner",
+        "preco_medio": 97.9,
+        "nota": 2.7,
+        "tipos_de_comida": [
+            "brasileira",
             "pizza"
         ],
-        "phone": 4750626761
+        "telefone": 4750626761
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 72.69,
-        "rank": 4.6,
-        "type": [
-            "italian",
-            "brazilian",
-            "mexican"
+        "nome": "Burger Hub",
+        "preco_medio": 72.69,
+        "nota": 4.6,
+        "tipos_de_comida": [
+            "italiana",
+            "brasileira",
+            "mexicana"
         ],
-        "phone": 5686240864
+        "telefone": 5686240864
     },
     {
-        "name": "Wok Palace",
-        "average_price_per_person": 46.03,
-        "rank": 2.6,
-        "type": [
-            "ice cream",
+        "nome": "Wok Palace",
+        "preco_medio": 46.03,
+        "nota": 2.6,
+        "tipos_de_comida": [
+            "sorvete",
             "pizza",
-            "japanese"
+            "japonesa"
         ],
-        "phone": 8458107215
+        "telefone": 8458107215
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 48.18,
-        "rank": 3.5,
-        "type": [
-            "chinese",
-            "italian"
+        "nome": "Burger Hub",
+        "preco_medio": 48.18,
+        "nota": 3.5,
+        "tipos_de_comida": [
+            "chinesa",
+            "italiana"
         ],
-        "phone": 7162080769
+        "telefone": 7162080769
     },
     {
-        "name": "Bistro",
-        "average_price_per_person": 81.46,
-        "rank": 3.2,
-        "type": [
-            "burger"
+        "nome": "Listro",
+        "preco_medio": 81.46,
+        "nota": 3.2,
+        "tipos_de_comida": [
+            "hamburguer"
         ],
-        "phone": 5324642864
+        "telefone": 5324642864
     },
     {
-        "name": "Taco House",
-        "average_price_per_person": 60.79,
-        "rank": 2.8,
-        "type": [
-            "ice cream",
+        "nome": "Taco House",
+        "preco_medio": 60.79,
+        "nota": 2.8,
+        "tipos_de_comida": [
+            "sorvete",
             "pizza"
         ],
-        "phone": 6622651312
+        "telefone": 6622651312
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 23.62,
-        "rank": 1.5,
-        "type": [
-            "burger",
-            "italian",
-            "mexican"
+        "nome": "Burger Hub",
+        "preco_medio": 23.62,
+        "nota": 1.5,
+        "tipos_de_comida": [
+            "hamburguer",
+            "italiana",
+            "mexicana"
         ],
-        "phone": 3209407857
+        "telefone": 3209407857
     },
     {
-        "name": "Bistro",
-        "average_price_per_person": 46.33,
-        "rank": 4.0,
-        "type": [
-            "mexican"
+        "nome": "Bistro",
+        "preco_medio": 46.33,
+        "nota": 4.0,
+        "tipos_de_comida": [
+            "mexicana"
         ],
-        "phone": 4457176910
+        "telefone": 4457176910
     },
     {
-        "name": "Wok Palace",
-        "average_price_per_person": 87.39,
-        "rank": 2.6,
-        "type": [
+        "nome": "Wok Palace",
+        "preco_medio": 87.39,
+        "nota": 2.6,
+        "tipos_de_comida": [
             "pizza",
-            "japanese",
-            "burger"
+            "japonesa",
+            "hamburguer"
         ],
-        "phone": 2991809509
+        "telefone": 2991809509
     },
     {
-        "name": "La Piazza",
-        "average_price_per_person": 97.59,
-        "rank": 4.5,
-        "type": [
-            "ice cream",
-            "chinese",
-            "italian"
+        "nome": "La Piazza",
+        "preco_medio": 97.59,
+        "nota": 4.5,
+        "tipos_de_comida": [
+            "sorvete",
+            "chinesa",
+            "italiana"
         ],
-        "phone": 9348280857
+        "telefone": 9348280857
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 38.21,
-        "rank": 4.6,
-        "type": [
-            "chinese",
-            "italian",
-            "mexican"
+        "nome": "Gelato Corner",
+        "preco_medio": 38.21,
+        "nota": 4.6,
+        "tipos_de_comida": [
+            "chinesa",
+            "italiana",
+            "mexicana"
         ],
-        "phone": 2881422201
+        "telefone": 2881422201
     },
     {
-        "name": "Nord",
-        "average_price_per_person": 19.97,
-        "rank": 3.9,
-        "type": [
-            "burger",
-            "japanese"
+        "nome": "Nord",
+        "preco_medio": 19.97,
+        "nota": 3.9,
+        "tipos_de_comida": [
+            "hamburguer",
+            "japonesa"
         ],
-        "phone": 6421809331
+        "telefone": 6421809331
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 45.64,
-        "rank": 2.1,
-        "type": [
-            "japanese",
+        "nome": "Sushi Bar",
+        "preco_medio": 45.64,
+        "nota": 2.1,
+        "tipos_de_comida": [
+            "japonesa",
             "pizza",
-            "ice cream"
+            "sorvete"
         ],
-        "phone": 8529246071
+        "telefone": 8529246071
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 72.84,
-        "rank": 4.1,
-        "type": [
-            "chinese",
-            "mexican"
+        "nome": "Sushi Bar",
+        "preco_medio": 72.84,
+        "nota": 4.1,
+        "tipos_de_comida": [
+            "chinesa",
+            "mexicana"
         ],
-        "phone": 4639217342
+        "telefone": 4639217342
     },
     {
-        "name": "Wok Palace",
-        "average_price_per_person": 22.16,
-        "rank": 4.6,
-        "type": [
-            "italian",
-            "burger",
-            "brazilian"
+        "nome": "Wok Palace",
+        "preco_medio": 22.16,
+        "nota": 4.6,
+        "tipos_de_comida": [
+            "italiana",
+            "hamburguer",
+            "brasileira"
         ],
-        "phone": 6237261965
+        "telefone": 6237261965
     },
     {
-        "name": "Churrasco Grill",
-        "average_price_per_person": 82.87,
-        "rank": 1.7,
-        "type": [
-            "chinese",
-            "italian",
-            "burger"
+        "nome": "Churrasco Grill",
+        "preco_medio": 82.87,
+        "nota": 1.7,
+        "tipos_de_comida": [
+            "chinesa",
+            "italiana",
+            "hamburguer"
         ],
-        "phone": 6271060621
+        "telefone": 6271060621
     },
     {
-        "name": "Churrasco Grill",
-        "average_price_per_person": 50.2,
-        "rank": 1.3,
-        "type": [
-            "brazilian"
+        "nome": "Churrasco Grill",
+        "preco_medio": 50.2,
+        "nota": 1.3,
+        "tipos_de_comida": [
+            "brasileira"
         ],
-        "phone": 6585975149
+        "telefone": 6585975149
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 16.15,
-        "rank": 4.2,
-        "type": [
-            "brazilian",
+        "nome": "Burger Hub",
+        "preco_medio": 16.15,
+        "nota": 4.2,
+        "tipos_de_comida": [
+            "brasileira",
             "pizza",
-            "chinese"
+            "chinesa"
         ],
-        "phone": 9430879033
+        "telefone": 9430879033
     },
     {
-        "name": "La Piazza",
-        "average_price_per_person": 45.83,
-        "rank": 2.5,
-        "type": [
-            "mexican",
-            "japanese"
+        "nome": "La Piazza",
+        "preco_medio": 45.83,
+        "nota": 2.5,
+        "tipos_de_comida": [
+            "mexicana",
+            "japonesa"
         ],
-        "phone": 8684343525
+        "telefone": 8684343525
     },
     {
-        "name": "Nord",
-        "average_price_per_person": 12.24,
-        "rank": 2.3,
-        "type": [
-            "japanese",
-            "brazilian",
+        "nome": "Nord",
+        "preco_medio": 12.24,
+        "nota": 2.3,
+        "tipos_de_comida": [
+            "japonesa",
+            "brasileira",
             "pizza"
         ],
-        "phone": 8804709097
+        "telefone": 8804709097
     },
     {
-        "name": "Churrasco Grill",
-        "average_price_per_person": 55.34,
-        "rank": 3.9,
-        "type": [
-            "mexican",
-            "chinese",
-            "italian"
+        "nome": "Churrasco Grill",
+        "preco_medio": 55.34,
+        "nota": 3.9,
+        "tipos_de_comida": [
+            "mexicana",
+            "chinesa",
+            "italiana"
         ],
-        "phone": 8957788099
+        "telefone": 8957788099
     },
     {
-        "name": "La Piazza",
-        "average_price_per_person": 85.62,
-        "rank": 1.0,
-        "type": [
-            "japanese"
+        "nome": "La Piazza",
+        "preco_medio": 85.62,
+        "nota": 1.0,
+        "tipos_de_comida": [
+            "japonesa"
         ],
-        "phone": 8217574072
+        "telefone": 8217574072
     },
     {
-        "name": "Sushi Bar",
-        "average_price_per_person": 17.64,
-        "rank": 3.9,
-        "type": [
+        "nome": "Sushi Bar",
+        "preco_medio": 17.64,
+        "nota": 3.9,
+        "tipos_de_comida": [
             "pizza",
-            "mexican"
+            "mexicana"
         ],
-        "phone": 8933238209
+        "telefone": 8933238209
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 45.34,
-        "rank": 2.9,
-        "type": [
-            "mexican",
+        "nome": "Gelato Corner",
+        "preco_medio": 45.34,
+        "nota": 2.9,
+        "tipos_de_comida": [
+            "mexicana",
             "pizza"
         ],
-        "phone": 3243567314
+        "telefone": 3243567314
     },
     {
-        "name": "Nord",
-        "average_price_per_person": 33.83,
-        "rank": 1.2,
-        "type": [
-            "chinese",
-            "italian"
+        "nome": "Nord",
+        "preco_medio": 33.83,
+        "nota": 1.2,
+        "tipos_de_comida": [
+            "chinesa",
+            "italiana"
         ],
-        "phone": 8034058425
+        "telefone": 8034058425
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 41.88,
-        "rank": 3.4,
-        "type": [
-            "burger",
-            "italian"
+        "nome": "Gelato Corner",
+        "preco_medio": 41.88,
+        "nota": 3.4,
+        "tipos_de_comida": [
+            "hamburguer",
+            "italiana"
         ],
-        "phone": 5275109652
+        "telefone": 5275109652
     },
     {
-        "name": "Nord",
-        "average_price_per_person": 93.95,
-        "rank": 3.8,
-        "type": [
-            "japanese",
+        "nome": "Nord",
+        "preco_medio": 93.95,
+        "nota": 3.8,
+        "tipos_de_comida": [
+            "japonesa",
             "pizza",
-            "italian"
+            "italiana"
         ],
-        "phone": 6406108885
+        "telefone": 6406108885
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 11.25,
-        "rank": 4.7,
-        "type": [
-            "burger",
-            "brazilian"
+        "nome": "Gelato Corner",
+        "preco_medio": 11.25,
+        "nota": 4.7,
+        "tipos_de_comida": [
+            "hamburguer",
+            "brasileira"
         ],
-        "phone": 9024210581
+        "telefone": 9024210581
     },
     {
-        "name": "Burger Hub",
-        "average_price_per_person": 96.33,
-        "rank": 3.9,
-        "type": [
-            "ice cream",
-            "mexican",
-            "brazilian"
+        "nome": "Burger Hub",
+        "preco_medio": 96.33,
+        "nota": 3.9,
+        "tipos_de_comida": [
+            "sorvete",
+            "mexicana",
+            "brasileira"
         ],
-        "phone": 9096131328
+        "telefone": 9096131328
     },
     {
-        "name": "Gelato Corner",
-        "average_price_per_person": 27.38,
-        "rank": 4.8,
-        "type": [
-            "burger",
-            "brazilian"
+        "nome": "Gelato Corner",
+        "preco_medio": 27.38,
+        "nota": 4.8,
+        "tipos_de_comida": [
+            "hamburguer",
+            "brasileira"
         ],
-        "phone": 6509801269
+        "telefone": 6509801269
     }
 ]
 
