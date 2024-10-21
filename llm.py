@@ -2,11 +2,11 @@ import os
 import json
 from groq import Groq
 from dotenv import load_dotenv
-import os
+from flask import Flask, request, jsonify
+from flask_cors import CORS, cross_origin
 
-load_dotenv()  # Load environment variables from .env file
+load_dotenv()  
 
-# Accessing the variables
 client = Groq(
     api_key=os.getenv("GROQ_API_KEY")
 )
@@ -15,9 +15,6 @@ with open('restaurant.json', 'r', encoding='utf-8') as file:
 
 template = os.getenv("PROMPT")
 
-from flask import Flask, request, jsonify
-from flask_cors import CORS, cross_origin
-import os
 app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
@@ -31,10 +28,10 @@ def chat_completion():
 
     chat_completion = client.chat.completions.create(
         messages=[
-            {
+           {
                 "role": "user",
-                "content": user_input,
-            },
+                "content": template,
+            }, 
             {
                 "role": "system",
                 "content": "Olá como posso ajuda-lo hoje?" 
@@ -46,7 +43,11 @@ def chat_completion():
             {
                 "role": "system",
                 "content": "Entendi, como esta seu apetite hoje? diga-me o que deseja para que eu consiga lhe ajudar a escolher"
-            }
+            },
+            {
+                "role": "user",
+                "content": user_input,
+            },
         ],
         model="llama3-8b-8192",
     )
